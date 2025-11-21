@@ -1,0 +1,8 @@
+{
+  "name": "ReactGram",
+  "description": "A fully functional, responsive messaging application inspired by Telegram and WhatsApp. Features include real-time UI updates, message persistence (local), dark mode support, and a mobile-first design.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
